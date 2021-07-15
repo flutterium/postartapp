@@ -1,0 +1,76 @@
+{
+  "@@locale": "tr",
+  "@@last_modified": "2021-04-28",
+  "yourWebSite": "Web siteniz",
+  "@yourWebSite": {
+    "description": "Giriş Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourEmail": "Mail adresiniz",
+  "@yourEmail": {
+    "description": "Giriş Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Şifreniz",
+  "@password": {
+    "description": "Giriş Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Giriş Yap",
+  "@login": {
+    "description": "Giriş Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "collection": "Koleksiyon",
+  "@collection": {
+    "description": "Koleksiyon veya Oluştur Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "create": "Oluştur",
+  "@Oluştur": {
+    "description": "Koleksiyon veya Oluştur Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tempWillBeSeenHere": "Şablonlarınız burada görüntülenecek.",
+  "@tempWillBeSeenHere": {
+    "description": "Koleksiyon Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectTempSize": "Şablon ölçüsü seçiniz.",
+  "@selectTempSize": {
+    "description": "Oluştur Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "continueText": "Devam et",
+  "@continueText": {
+    "description": "Oluştur Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newTemp": "Yeni şablon",
+  "@newTemp": {
+    "description": "Oluştur Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "image": "Resim",
+  "@image": {
+    "description": "Oluştur Ekranı",
+    "type": "text",
+    "placeholders": {}
+  },
+  "text": "Yazı",
+  "@text": {
+    "description": "Oluştur Ekranı",
+    "type": "text",
+    "placeholders": {}
+  }
+}
